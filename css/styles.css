@@ -63,7 +63,7 @@ h1{
 
 .features-text{
     max-width: 60%;
-    margin: auto;
+    align-items: center;
     color: #8f8f8f;
 }
 
@@ -103,7 +103,7 @@ p{
 }
 
 .carousel-btn{
-    margin: 5% auto;
+    margin: 30% auto;
 }
 
 /*  Press  */
@@ -154,6 +154,10 @@ p{
         transform: rotate(0);
     }
 
+    .carousel-btn{
+        margin-top: 65%;
+        
+    }
 }
 
 /*  cta  */
